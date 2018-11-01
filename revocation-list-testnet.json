@@ -9,6 +9,14 @@
       "revocationReason": "Honor code violation"
     },
     {
+      "id": "urn:uuid:3bc1a96a-3501-46ed-8f75-49612bbac257",
+      "revocationReason": "Revoked by Dept 3bc"
+    },
+    {
+      "id": "urn:uuid:4e7d75c5-281c-45de-93cc-3212b1349ee9",
+      "revocationReason": "Revoked by Dept 4e"
+    },
+    {
       "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
       "revocationReason": "Issued in error."
     }
